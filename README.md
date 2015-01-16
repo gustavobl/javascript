@@ -1,2 +1,1 @@
-# javascript
-Lógica
+Scripts de javascript...
